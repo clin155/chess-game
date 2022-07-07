@@ -1,4 +1,4 @@
 # Chess Game
 
 to run:
-  python3 chess.py
+  python3 Chess.py
